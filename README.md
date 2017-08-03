@@ -4,4 +4,6 @@ GMgames is a personal blog with the purpose to provide the latest gaming options
 
 url: tinyurl.com/ydgc55by
 
-![gmgames](https://user-images.githubusercontent.com/21368903/28912609-ec103fb0-7802-11e7-98f7-970fd7f16220.png)
+![gmgames](https://user-images.githubusercontent.com/21368903/28912705-63f7bc88-7803-11e7-9552-825ad5d01275.png)
+
+![gmgames2](https://user-images.githubusercontent.com/21368903/28912722-728840f6-7803-11e7-84a1-7c942295f722.png)
