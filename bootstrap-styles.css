@@ -1,0 +1,83 @@
+<style>
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a{
+    color: orange;
+}
+.navbar-brand {
+    height: 80px;
+}
+.navbar-brand>img {
+    height: 60px;
+    width: auto;
+}
+.nav >li >a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}
+.article {
+    text-align: left;
+    flex: 1 auto;
+}
+.jumbotron {
+    background-image: url("picturesGM/red-iridescent-crush2.jpg");
+    background-attachment:fixed;
+    min-height: 500px;
+    margin-bottom: 0px;
+    text-decoration-color: white;
+}
+.jumbotron h1 {
+    color: #fff;
+}
+.jumbotron p {
+    color: #fff;
+}
+img.img-responsive {
+    display: block;
+    margin: 0 auto;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+body {
+    background-image: url("picturesGM/Hubble-Shows-the-Iridescent-Interior-of-NGC-1569.jpg");
+    background-repeat:round;
+    background-attachment:fixed;
+    color: white;
+    font-size: 20px;
+}
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav ul a {
+ text-decoration: none;
+}
+.PS3 {
+    color: aliceblue;
+    font-size: 40px;
+    font-family: serif;
+}
+footer {
+    height: 200px;
+    background-color: black;
+}
+p.creators{
+    font-family: verdana;
+    font-size: 15px;
+}
+ </style>
