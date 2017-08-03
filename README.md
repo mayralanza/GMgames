@@ -1,6 +1,6 @@
 # GMgames
 GMgames is a personal blog with the purpose to provide the latest gaming options in PC, PS3 and mobile enviroments.
-#Games #blog #hotgames #fun 
+#Games #blog #hotgames #fun #fisrtWebpage
 
 url: ["Click here to see the Website"](http://tinyurl.com/ydgc55by)
 
