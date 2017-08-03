@@ -1,3 +1,3 @@
 # GMgames
-GMgames is a personal blog with the porpuse to provide advices when chosing a what games to play
+GMgames is a personal blog with the porpuse to provide the latest gaming options in PC, PS3 and mobile enviroments.
 #Games #blog #hotgames 
